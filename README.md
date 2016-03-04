@@ -1,2 +1,8 @@
-# graphic-verify-code
-graphic verify code
+# nodejs-verification-code
+
+brew install imagemagick
+brew install graphicsmagick
+
+
+
+

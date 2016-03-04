@@ -1,5 +1,5 @@
 {
-  "name": "graphic-verify-code",
+  "name": "nodejs-verification-code",
   "version": "1.0.1",
   "description": "graphic verify code",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ymyang/graphic-verify-code.git"
+    "url": "git+https://github.com/xwyzl/nodejs-verification-code.git"
   },
   "keywords": [
     "verify",
@@ -18,12 +18,12 @@
     "security",
     "verification"
   ],
-  "author": "ymyang",
+  "author": "xwyzl",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ymyang/graphic-verify-code/issues"
+    "url": "https://github.com/xwyzl/nodejs-verification-code/issues"
   },
-  "homepage": "https://github.com/ymyang/graphic-verify-code#readme",
+  "homepage": "https://github.com/xwyzl/nodejs-verification-code#readme",
   "dependencies": {
     "gm": "^1.21.1",
     "lodash": "^3.10.1"
